@@ -1,10 +1,10 @@
-## Fine tune llama2 7B model on single Nvidia L4 GPU machine
+## Fine-tuning Llama-2 7B on a Single Nvidia L4 GPU
 
-### Llama 2 chat 
+### Llama 2 chat format
 You can adapt this notebook to any conversation/qa dataset. 
 
 ![](media/chat.png)
-### Run this one a single Nvidia L4 GPU machine
+### Run this notebook on a single Nvidia L4 GPU machine
 ![](media/l4.png)
 
 ###
